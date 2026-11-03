@@ -27,11 +27,11 @@
     "devDependencies": {
         "@types/copy-webpack-plugin": "^8.0.1",
         "@types/node": "^22.7.0",
-        "copy-webpack-plugin": "^11.0.0",
+        "copy-webpack-plugin": "^14.0.0",
         "shx": "^0.3.4",
         "ts-loader": "^9.5.1",
         "typescript": "~5.5.4",
-        "webpack": "^5.94.0",
+        "webpack": "^5.112.2",
         "webpack-cli": "^5.1.4",
         "webpack-virtual-modules": "^0.6.2"
     },
